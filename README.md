@@ -7,7 +7,7 @@ This project is the final submission for the Introduction to Databases course at
 - **Student ID:** 11247158
 - **Class** Data Science 66B
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Database:** MySQL (Stored Procedures, Triggers, Views, AES Encryption)
 - **Programming:** Python 3.x (Pandas, Mysql-connector-python)
 - **Design & Tools:** MySQL Workbench (ERD), VS Code, GitHub
