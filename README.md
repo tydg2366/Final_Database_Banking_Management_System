@@ -5,7 +5,7 @@ This project is the final submission for the Introduction to Databases course at
 ## Student Information
 - **Full Name:** Nguyen Thi Thuy Duong
 - **Student ID:** 11247158
-- **Class** Data Science 66B
+- **Class:** Data Science 66B
 
 ## Tech Stack
 - **Database:** MySQL (Stored Procedures, Triggers, Views, AES Encryption)
